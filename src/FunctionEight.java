@@ -8,9 +8,9 @@
  *
  * @author geovana
  */
-public class FuncaoEight extends Functions{
+public class FunctionEight extends Functions{
        
-    public FuncaoEight() {
+    public FunctionEight() {
         LOC_X_HIGH = 500;
         LOC_X_LOW = -500;
         name = "Funcao 8";
