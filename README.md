@@ -2,7 +2,7 @@
 
 Algoritmo de Enxame de Partículas com os parâmetros:
 
-  • C1 e C2: Iniciados em 0.1, e escolhido randomicamente se será incrementado 0.1 o C1, o C2 ou os dois parâmetros em cada geraçãoo em que 80% das partículas apresentaram estagnação.
+    • C1 e C2: Iniciados em 0.1, e escolhido randomicamente se será incrementado 0.1 o C1, o C2 ou os dois parâmetros em cada geraçãoo em que 80% das partículas apresentaram estagnação.
 
 • Inércia: Iniciada em 0.9 e decai linearmente com o passar das gerações.
 
